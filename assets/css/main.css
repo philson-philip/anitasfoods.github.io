@@ -1212,6 +1212,9 @@ blockquote {
   width: 50%;
   height: 700px;
 }
+.footer-img {
+  border-radius: 20px;
+}
 
 .half-section.photo {
   background-image: url("../img/mac_image.jpg");
